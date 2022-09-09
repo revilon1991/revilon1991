@@ -21,7 +21,7 @@
 <a href="https://www.tensorflow.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="Tensorflow" width="50"/></a>
 <a href="https://www.mysql.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50"/></a>
 <a href="https://www.nginx.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/nginx-icon.svg" alt="Nginx" width="50"/></a>
-<a href="https://clickhouse.com"><img src="https://github.com/ClickHouse/ClickHouse/blob/master/website/images/logo.svg" alt="Clickhouse" width="60"/></a>
+<a href="https://clickhouse.com"><img src="https://github.com/ClickHouse/ClickHouse/blob/19.5/website/images/logo.svg" alt="Clickhouse" width="60"/></a>
 <a href="https://tarantool.org"><img src="https://avatars2.githubusercontent.com/u/2344919?v=2&s=50" alt="Tarantool" width="50"/></a>
 <a href="https://redis.io"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="60"/></a>
 <a href="https://www.rabbitmq.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/rabbitmq.svg" alt="RabbitMQ" width="50"/></a>
