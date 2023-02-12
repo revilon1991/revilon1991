@@ -4,9 +4,9 @@
 - 🔭 I'm currently working on **a monolithic PHP**
 - 🌱 I'm currently learning **the concepts of domain-driven design**
 - 💬 Ask me about **OOP**, **DDD**, **RESTful API**, **ML**, **CV**
-- 📫 How to reach me: revil-on@mail.ru
+- 📫 How to reach me: revilon1991@gmail.com
 - ⚡ Fun fact: I have a dream to live in **the Netherlands**
-- 📄 Know about my experiences https://resume.9ek.ru/cv.pdf
+- 📄 Know about my experiences https://resume.9ek.ru/cv_self.pdf
 
 ### Connect with me:
 <a href="https://t.me/revil_on"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50"/></a>
