@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Evgenii Kuznetsov 👨‍💻
-### A Software Architect Backend PHP/GoLang from Cyprus
+### A Tech Lead Backend PHP/GoLang from Cyprus
 
 - 🔭 I'm currently working on **a monolithic PHP**
 - 🌱 I'm currently learning **the concepts of domain-driven design**
